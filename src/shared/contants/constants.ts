@@ -1,0 +1,1 @@
+export const POKEDEX_API = 'https://pokeapi.co/api/v2/pokemon';
